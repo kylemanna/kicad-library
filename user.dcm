@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CAN
+D CAN Transceiver
+$ENDCMP
+#
+$CMP JACK_2.5MM-4P
+F sj1-425x-smt-series.pdf
+$ENDCMP
+#
+$CMP MOSFET_2N_CH
+D MOSFET Array
+K mosfet array
+F http://www.diodes.com/datasheets/DMN6040SSD.pdf
+$ENDCMP
+#
+$CMP TEST_POINT
+D Test Point
+$ENDCMP
+#
+#End Doc Library
