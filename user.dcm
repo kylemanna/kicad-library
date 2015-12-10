@@ -8,10 +8,31 @@ $CMP JACK_2.5MM-4P
 F sj1-425x-smt-series.pdf
 $ENDCMP
 #
+$CMP LTC4412
+D P-Channel MOSFET Ideal Diode Controller
+$ENDCMP
+#
+$CMP MMBF170
+D 60V Vds 0.5A Id, N-Channel MOSFET, SOT-23
+K N-Channel MOSFET
+F http://www.fairchildsemi.com/ds/BS/BS170.pdf
+$ENDCMP
+#
 $CMP MOSFET_2N_CH
 D MOSFET Array
 K mosfet array
 F http://www.diodes.com/datasheets/DMN6040SSD.pdf
+$ENDCMP
+#
+$CMP NMOS
+D 60V Vds 0.5A Id, N-Channel MOSFET, SOT-23
+K N-Channel MOSFET
+F http://www.fairchildsemi.com/ds/BS/BS170.pdf
+$ENDCMP
+#
+$CMP PMOS
+D 60V Vds 0.5A Id, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
 $ENDCMP
 #
 $CMP TEST_POINT
