@@ -39,4 +39,9 @@ $CMP TEST_POINT
 D Test Point
 $ENDCMP
 #
+$CMP ZXGD3001E6
+D 9A(peak) Gate driver in SOT23-6
+K gate driver
+$ENDCMP
+#
 #End Doc Library
