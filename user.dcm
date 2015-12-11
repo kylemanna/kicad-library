@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AOZ3015
+D 3A Sync Buck Regulator, 4.5-18V
+K regulator vreg buck
+$ENDCMP
+#
 $CMP AOZ301x
 D 3A Sync Buck Regulator, 4.5-18V
 K regulator vreg buck
