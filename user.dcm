@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AOZ301x
+D 3A Sync Buck Regulator, 4.5-18V
+K regulator vreg buck
+$ENDCMP
+#
 $CMP CAN
 D CAN Transceiver
 $ENDCMP
@@ -24,10 +29,20 @@ K mosfet array
 F http://www.diodes.com/datasheets/DMN6040SSD.pdf
 $ENDCMP
 #
+$CMP MP8715
+D 4A, 21V, 500kHz, Step Down Converter with 100% duty cycle
+K vreg
+$ENDCMP
+#
 $CMP NMOS
 D 60V Vds 0.5A Id, N-Channel MOSFET, SOT-23
 K N-Channel MOSFET
 F http://www.fairchildsemi.com/ds/BS/BS170.pdf
+$ENDCMP
+#
+$CMP PAM242x
+D 3A, 4.5A, 5.5A PWM Step-up DC-DC Converter
+K vreg
 $ENDCMP
 #
 $CMP PMOS
