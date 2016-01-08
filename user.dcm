@@ -14,6 +14,12 @@ $CMP CAN
 D CAN Transceiver
 $ENDCMP
 #
+$CMP INA199
+D Current Sense Monitor: Voltage Output, High or Low Side Measurement, Bi-Directional Zerø-Drift Series
+K current sense shunt
+F http://www.ti.com/lit/ds/symlink/ina199.pdf
+$ENDCMP
+#
 $CMP JACK_2.5MM-4P
 F sj1-425x-smt-series.pdf
 $ENDCMP
