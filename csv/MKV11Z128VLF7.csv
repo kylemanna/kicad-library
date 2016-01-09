@@ -28,7 +28,7 @@ Pin,    Unit,   Type,           Name,           Side
 24,     1,      bidirectional,  PTA18/EXTAL0,       bottom
 
 25,     1,      bidirectional,  PTA19/XTAL0,        right
-26,     1,      bidirectional,  PTA20/REST_b,       right
+26,     1,      bidirectional,  PTA20/RESET_b,      right
 27,     1,      bidirectional,  PTB0/LLWU_P5,       right
 28,     1,      bidirectional,  PTB1,               right
 29,     1,      bidirectional,  PTB2,               right
