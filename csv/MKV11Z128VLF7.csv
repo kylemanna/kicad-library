@@ -38,7 +38,7 @@ Pin,    Unit,   Type,           Name,           Side
 33,     1,      bidirectional,  PTC0,               right
 34,     1,      bidirectional,  PTC1/LLWU_P6,       right
 35,     1,      bidirectional,  PTC2,               right
-36,     1,      bidirectional,  PTC3/LLWU_P7,       right
+36,     1,      bidirectional,  PTC3/LLWU_P7/CLKOUT,right
 
 37,     1,      bidirectional,  PTC4/LLWU_P8,       top
 38,     1,      bidirectional,  PTC5/LLWU_P9,       top
@@ -49,6 +49,6 @@ Pin,    Unit,   Type,           Name,           Side
 43,     1,      bidirectional,  PTD2/LLWU_P13,      top
 44,     1,      bidirectional,  PTD3,               top
 45,     1,      bidirectional,  PTD4/LLWU_P14,      top
-46,     1,      bidirectional,  PTD5/CLKOUT,        top
+46,     1,      bidirectional,  PTD5,               top
 47,     1,      bidirectional,  PTD6/LLWU_P15,      top
 48,     1,      bidirectional,  PTD7,               top
