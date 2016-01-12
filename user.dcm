@@ -10,6 +10,12 @@ D 3A Sync Buck Regulator, 4.5-18V
 K regulator vreg buck
 $ENDCMP
 #
+$CMP BQ2417X
+D 1.6-MHz Synchronous Switched-Mode Li-Ion and Li-Polymer Stand-Alone Battery Charger With Integrated MOSFETs and Power Path Selector
+K charger
+F http://www.ti.com/lit/ds/symlink/bq24170.pdf
+$ENDCMP
+#
 $CMP CAN
 D CAN Transceiver
 $ENDCMP
