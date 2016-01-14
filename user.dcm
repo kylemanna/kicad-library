@@ -73,6 +73,12 @@ D 60V Vds 0.5A Id, P-Channel MOSFET, SOT-23
 K P-Channel MOSFET
 $ENDCMP
 #
+$CMP PT4115
+D 30V, 1.2A Step-down High Brightness LED Driver with 5000:1 Dimming
+K led driver constant current
+F https://people.xiph.org/~xiphmont/thinkpad/PT4115E.pdf
+$ENDCMP
+#
 $CMP TEST_POINT
 D Test Point
 $ENDCMP
