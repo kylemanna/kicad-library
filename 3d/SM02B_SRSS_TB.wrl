@@ -37,7 +37,7 @@ Group {
             Transform {
               translation 0 0 0
               rotation 0 0 1  0
-              scale 1 1 1
+              scale 0.39370078740157480314 0.39370078740157480314 0.39370078740157480314
               scaleOrientation 0 0 1  0
               center 0 0 0
               children 

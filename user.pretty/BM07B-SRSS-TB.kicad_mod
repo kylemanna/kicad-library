@@ -30,7 +30,7 @@
   (pad 7 smd rect (at 3 2.625) (size 0.6 1.55) (layers F.Cu F.Paste F.Mask))
   (model ${KIPRJMOD}/lib/3d/BM07B-SRSS-TB.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.4 0.4 0.4))
+    (scale (xyz 1 1 1))
     (rotate (xyz 270 0 0))
   )
 )
