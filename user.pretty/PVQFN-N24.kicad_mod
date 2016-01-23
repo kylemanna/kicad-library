@@ -48,9 +48,9 @@
   (pad 9 smd rect (at 1.25 1.725 180) (size 0.3 0.85) (layers F.Cu F.Paste F.Mask))
   (pad 10 smd rect (at 1.75 1.725 180) (size 0.3 0.85) (layers F.Cu F.Paste F.Mask))
   (pad EP smd rect (at 0 0 180) (size 3.1 2.05) (layers F.Cu F.Paste F.Mask))
-  (model /home/nitro/Documents/OpenBike/Quark2/Q2Bat/lib/3d/PVQFN-N24.wrl
+  (model ${KIPRJMOD}/lib/3d/PVQFN-N24.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 393.7007874015748 393.7007874015748 393.7007874015748))
-    (rotate (xyz 270 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
   )
 )
