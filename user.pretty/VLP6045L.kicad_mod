@@ -18,9 +18,9 @@
   (fp_line (start 0.4 3.2) (end -0.4 3.2) (layer F.SilkS) (width 0.15))
   (pad 1 smd rect (at -1.975 0) (size 2.55 6.6) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.975 0) (size 2.55 6.6) (layers F.Cu F.Paste F.Mask))
-  (model /home/nitro/Documents/OpenBike/Quark2/Q2Bat/lib/3d/VLP6045T.wrl
-    (at (xyz 0 0 0.003))
+  (model ${KIPRJMOD}/lib/3d/VLP6045T.wrl
+    (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 270 0 90))
+    (rotate (xyz 0 0 0))
   )
 )
