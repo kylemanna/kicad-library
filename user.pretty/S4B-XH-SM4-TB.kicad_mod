@@ -35,11 +35,11 @@
   (model ${KIPRJMOD}/3d/S4B-XH-SM4-TB.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 180))
+    (rotate (xyz 0 0 0))
   )
   (model ${KIPRJMOD}/lib/3d/S4B-XH-SM4-TB.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 180))
+    (rotate (xyz 0 0 0))
   )
 )
