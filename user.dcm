@@ -40,6 +40,12 @@ $CMP LTC4412
 D P-Channel MOSFET Ideal Diode Controller
 $ENDCMP
 #
+$CMP MK22FN1M0AVLH12
+D Kinetis K22F 120MHz Cortex-M4F 512KB-1MB Flash
+K Kinetis K22F
+F http://cache.nxp.com/files/32bit/doc/data_sheet/K22P64M120SF5V2.pdf
+$ENDCMP
+#
 $CMP MMBF170
 D 60V Vds 0.5A Id, N-Channel MOSFET, SOT-23
 K N-Channel MOSFET
