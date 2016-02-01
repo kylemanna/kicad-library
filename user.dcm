@@ -46,6 +46,12 @@ K Li-Ion Li-Po Battery Charger
 F http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf
 $ENDCMP
 #
+$CMP MIC5205
+D 150 mA LDO Regulator 1%
+K LDO
+F http://www.micrel.com/_PDF/mic5205.pdf
+$ENDCMP
+#
 $CMP MK22FN1M0AVLH12
 D Kinetis K22F 120MHz Cortex-M4F 512KB-1MB Flash
 K Kinetis K22F
