@@ -36,6 +36,11 @@ $CMP JACK_2.5MM-4P
 F sj1-425x-smt-series.pdf
 $ENDCMP
 #
+$CMP LIS3DH
+D ACCELEROMETER 3AXIS MEMS 16-LGA
+F http://www.st.com/web/en/resource/technical/document/datasheet/CD00274221.pdf
+$ENDCMP
+#
 $CMP LTC4412
 D P-Channel MOSFET Ideal Diode Controller
 $ENDCMP
