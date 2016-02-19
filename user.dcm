@@ -122,6 +122,11 @@ K LDO Iq
 F http://www.ti.com/lit/ds/symlink/tps782.pdf
 $ENDCMP
 #
+$CMP TVS
+D Transient voltage suppressor diode (bi-directional)
+K DEV TVS TRANSIENT SUPPROESSOR ESD
+$ENDCMP
+#
 $CMP ZXGD3001E6
 D 9A(peak) Gate driver in SOT23-6
 K gate driver
