@@ -1,11 +1,11 @@
-(module Connector_Molex_PicoBlade_53047-0210 (layer F.Cu) (tedit 56E3A2CB)
+(module Connector_Molex_PicoBlade_53047-0210 (layer F.Cu) (tedit 56E43B8D)
   (descr http://www.molex.com/pdm_docs/sd/530470210_sd.pdf)
   (tags "picoblade molex")
   (attr smd)
   (fp_text reference REF** (at 0 3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Connector_Molex_PicoBlade_53047-0210 (at 0 -2) (layer F.Fab)
+  (fp_text value Connector_Molex_PicoBlade_53047-0210 (at 0 -2) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 2.6 0) (end 2.7 0) (layer F.SilkS) (width 0.15))
