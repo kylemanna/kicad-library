@@ -36,6 +36,11 @@ $CMP JACK_2.5MM-4P
 F sj1-425x-smt-series.pdf
 $ENDCMP
 #
+$CMP JACK_TRS_3PINS
+D audio jack TRS 3 pins
+K audio jack connector TRS
+$ENDCMP
+#
 $CMP LED-EP
 K LED
 $ENDCMP
